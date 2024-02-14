@@ -1,0 +1,9 @@
+
+
+Step 1: Download and Install Microsoft Visual Studio 
+Step 2: Download and Install Microsft SQL Server 2019 (any version).
+Step 3: Create a table using the script attached.
+Step 4: Open the Solution file Form5.sln and change the DB credentials in Form5.aspx.cs
+Step 5: Run the same and test.
+
+I have also hosted the form online using IIS on https. I haven't mentioned that details due to security reasons.
